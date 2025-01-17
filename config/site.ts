@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Flower Prediction",
+  name: "Cotton Prediction",
   description: "Make prediction by upload an image.",
   navItems: [
     {
